@@ -23,6 +23,6 @@
 
 <div align="center">
 
-![Skills](https://skills.thijs.gg/icons?i=html,css,js,bootstrap,react,java,python,mysql,aws)
+![Skills](https://skills.thijs.gg/icons?i=html,css,js,bootstrap,react,nodejs,java,python,mysql,aws)
 
 </div>
